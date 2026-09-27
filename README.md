@@ -31,7 +31,7 @@ table.add("name", "Javed")
 table.add("language", "Python")
 
 print(table.lookup("name"))
-# Javed
+# Jawed
 
 table.remove("name")
 
